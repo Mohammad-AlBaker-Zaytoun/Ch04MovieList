@@ -14,7 +14,7 @@ namespace MovieList.Controllers
         }
 
         [HttpGet]
-        public IActionResult Add()
+         public IActionResult Add()
         {
             ViewBag.Action = "Add";
             ViewBag.Genres = context.Genres.OrderBy(g => g.Name).ToList();
