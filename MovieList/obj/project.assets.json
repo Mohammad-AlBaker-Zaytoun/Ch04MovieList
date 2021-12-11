@@ -7123,30 +7123,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ZAYTOUN\\.nuget\\packages\\": {}
+    "C:\\Users\\www2m\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ZAYTOUN\\Desktop\\Uni\\Web Development\\book_apps\\Ch04MovieList\\MovieList\\MovieList.csproj",
+      "projectUniqueName": "C:\\Users\\www2m\\Desktop\\Uni\\Web Development\\book_apps\\Ch04MovieList\\MovieList\\MovieList.csproj",
       "projectName": "MovieList",
-      "projectPath": "C:\\Users\\ZAYTOUN\\Desktop\\Uni\\Web Development\\book_apps\\Ch04MovieList\\MovieList\\MovieList.csproj",
-      "packagesPath": "C:\\Users\\ZAYTOUN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ZAYTOUN\\Desktop\\Uni\\Web Development\\book_apps\\Ch04MovieList\\MovieList\\obj\\",
+      "projectPath": "C:\\Users\\www2m\\Desktop\\Uni\\Web Development\\book_apps\\Ch04MovieList\\MovieList\\MovieList.csproj",
+      "packagesPath": "C:\\Users\\www2m\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\www2m\\Desktop\\Uni\\Web Development\\book_apps\\Ch04MovieList\\MovieList\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ZAYTOUN\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\www2m\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -7158,7 +7156,6 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
-        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.EntityFrameworkCore.Sqlite": {
             "target": "Package",
@@ -7189,12 +7186,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[3.1.20, 3.1.20]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -7203,7 +7194,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.2.21505.57\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.415\\RuntimeIdentifierGraph.json"
       }
     }
   }
